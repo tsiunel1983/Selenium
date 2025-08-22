@@ -16,4 +16,4 @@ print("Текущий заголовок: ", current_title)
 assert current_title =="Переводчик сайтов онлайн на русский и другие языки – Яндекс Переводчик" , "Ошибка title"
 
 print(driver.page_source)
-time.sleep(5)
+# time.sleep(7)
